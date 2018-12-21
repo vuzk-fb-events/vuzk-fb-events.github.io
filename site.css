@@ -1,0 +1,38 @@
+img {
+ width: 70%;
+    display: block;
+    margin: 20px;
+    border: solid;
+    border-width: 1px;
+    border-color: gainsboro;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+li {
+    text-align: left;
+}
+
+h3{
+    margin: 0;
+}
+
+h4{
+    margin: 0;
+
+}
+
+.left{
+    text-align: left;
+}
+
+.android {
+    width: 15%;
+}
